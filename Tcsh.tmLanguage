@@ -42,10 +42,6 @@
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>#function-definition</string>
-		</dict>
-		<dict>
-			<key>include</key>
 			<string>#string</string>
 		</dict>
 		<dict>
@@ -55,14 +51,6 @@
 		<dict>
 			<key>include</key>
 			<string>#interpolation</string>
-		</dict>
-		<dict>
-			<key>include</key>
-			<string>#heredoc</string>
-		</dict>
-		<dict>
-			<key>include</key>
-			<string>#herestring</string>
 		</dict>
 		<dict>
 			<key>include</key>
@@ -465,10 +453,6 @@
 								<dict>
 									<key>include</key>
 									<string>#comment</string>
-								</dict>
-								<dict>
-									<key>include</key>
-									<string>#case-clause</string>
 								</dict>
 								<dict>
 									<key>include</key>
